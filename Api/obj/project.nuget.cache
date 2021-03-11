@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2D2kH7KGlaXnjmVeIZTU2mM2qUAbrgh7SaQyt5C0E1DkSFOKlavKUKRMmq9IDK06moX4rqomdJ4kbC6VH6gT7g==",
+  "dgSpecHash": "bolJaT7Jnp6tWxZRmD3NGw5d3JXGfFu4cI6ZXf5v+M/Ecm5Y9c76sMPle49YpZZWX1n0Oat3WYnQPj9rLGGXuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sofia.sorensen\\Documents\\GitHub\\API_test\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\sofia\\Documents\\GitHub\\API_test\\Api\\Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sofia.sorensen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\sofia.sorensen\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+    "C:\\Users\\sofia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\sofia\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
   ],
   "logs": []
 }
